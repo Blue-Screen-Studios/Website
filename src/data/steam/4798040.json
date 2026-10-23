@@ -1,0 +1,269 @@
+{
+  "appId": 4798040,
+  "name": "Orbital Physics Simulator",
+  "storeUrl": "https://store.steampowered.com/app/4798040/",
+  "shortDescription": "Master physics in this hardcore orbital simulator where Einstein’s theories come to life. Plot trajectories and manipulate spacetime via general relativity, time dilation, and length contraction. Command your starship, outrun time, and explore a universe governed by real physics.",
+  "about": [
+    {
+      "type": "paragraph",
+      "text": "A realistic orbital mechanics sandbox set entirely within our solar system, governed strictly by real-world Newtonian physics and Einstein’s theories of relativity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The simulation bypasses launch sequences and atmospheric escapes, placing your craft directly into an established Earth orbit. From this starting point, operation focuses entirely on orbital maneuvering, trajectory calculation, and navigation."
+    },
+    {
+      "type": "heading",
+      "text": "Core Mechanics & Navigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interplanetary transit relies entirely on directional thrust. You can not rely on the autopilot if you want to progress. Instead, you must manually rotate the craft to thrust at specific angles to alter your trajectory."
+    },
+    {
+      "type": "paragraph",
+      "text": "To travel between planets, you change your course by timing these manual burns to account for relative orbital velocities and gravitational influences. Reaching destinations like Mars or Jupiter requires precise rotation and execution of insertion burns and gravity assists, where your thrust angle dictates your final path."
+    },
+    {
+      "type": "heading",
+      "text": "Relativistic Physics & Visual Distortion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The engine actively simulates the physical effects of near-light-speed travel by dynamically calculating time dilation, length contraction, and relativistic aberration based on your velocity. Time dilation is tracked via synchronized readouts comparing your onboard ship clock with external coordinate time, mapping how seconds for you equal months or years in the solar system. Mechanically, the universe compresses along your vector of travel, while the engine calculates light aberration to shift and bunch your field of view forward."
+    }
+  ],
+  "releaseDate": "Jun 22, 2026",
+  "comingSoon": false,
+  "price": null,
+  "isFree": true,
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Free To Play"
+  ],
+  "features": [
+    "Single-player",
+    "Steam Achievements",
+    "Playable without Timed Input",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "languages": "English",
+  "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/959c727cf5a7ba93267af31475699050aba727d6/header.jpg?t=1782959593",
+  "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/1650b4b5b8c9a86dcc9c71afb199140477c4156e/page_bg_raw.jpg?t=1782959593",
+  "screenshots": [
+    {
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/9c106c1d09100417a10dd657b20d2d4a0918c929/ss_9c106c1d09100417a10dd657b20d2d4a0918c929.600x338.jpg?t=1782959593",
+      "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/9c106c1d09100417a10dd657b20d2d4a0918c929/ss_9c106c1d09100417a10dd657b20d2d4a0918c929.1920x1080.jpg?t=1782959593"
+    },
+    {
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/448f29b57d80bfbb1ead3af52cac632850ce1edb/ss_448f29b57d80bfbb1ead3af52cac632850ce1edb.600x338.jpg?t=1782959593",
+      "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/448f29b57d80bfbb1ead3af52cac632850ce1edb/ss_448f29b57d80bfbb1ead3af52cac632850ce1edb.1920x1080.jpg?t=1782959593"
+    },
+    {
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/c741bc9780652d0577a560b370966ca05dd196eb/ss_c741bc9780652d0577a560b370966ca05dd196eb.600x338.jpg?t=1782959593",
+      "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/c741bc9780652d0577a560b370966ca05dd196eb/ss_c741bc9780652d0577a560b370966ca05dd196eb.1920x1080.jpg?t=1782959593"
+    },
+    {
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/9f1beca98f4d87504b5f5f1c02e6c7e92717eb06/ss_9f1beca98f4d87504b5f5f1c02e6c7e92717eb06.600x338.jpg?t=1782959593",
+      "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/9f1beca98f4d87504b5f5f1c02e6c7e92717eb06/ss_9f1beca98f4d87504b5f5f1c02e6c7e92717eb06.1920x1080.jpg?t=1782959593"
+    },
+    {
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/5b87ce64cdd20985d2dbcdd9f64bed406727ccc7/ss_5b87ce64cdd20985d2dbcdd9f64bed406727ccc7.600x338.jpg?t=1782959593",
+      "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/5b87ce64cdd20985d2dbcdd9f64bed406727ccc7/ss_5b87ce64cdd20985d2dbcdd9f64bed406727ccc7.1920x1080.jpg?t=1782959593"
+    },
+    {
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/4ae3de2e0cb6055d5f50c178ae8f5aac8f1e2dc9/ss_4ae3de2e0cb6055d5f50c178ae8f5aac8f1e2dc9.600x338.jpg?t=1782959593",
+      "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798040/4ae3de2e0cb6055d5f50c178ae8f5aac8f1e2dc9/ss_4ae3de2e0cb6055d5f50c178ae8f5aac8f1e2dc9.1920x1080.jpg?t=1782959593"
+    }
+  ],
+  "trailer": {
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/4798040/1321836179/e73c12bc2a7d12e2fb24b787276503200d22e228/1781673732/hls_264_master.m3u8?t=1781673853",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257360912/8f5fdaec1c86a49586632f826403d5e0ffd5900c/movie_600x337.jpg?t=1781673853"
+  },
+  "achievements": {
+    "total": 11,
+    "highlighted": [
+      {
+        "name": "C You Later!",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/fce75878ba34f62f7ed8a23d20537112202f8e0b.jpg"
+      },
+      {
+        "name": "Planet 9",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/e7d9a25191e86087aa9f803c67c1a31e3bdb38c0.jpg"
+      },
+      {
+        "name": "Orbit Mercury",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/54d43ec77ebe39ecd131140a44423316d171618c.jpg"
+      },
+      {
+        "name": "Orbit Venus",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/4c955e0dde7b44075c9a9a492755e8351af14927.jpg"
+      },
+      {
+        "name": "Orbit Earth",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/fa2ae3389ff5a57961ce22f6e48c77a0fd8c4517.jpg"
+      },
+      {
+        "name": "Orbit the Moon",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/e19539f1f10bab0adf3abe0636af5fb61a7816be.jpg"
+      },
+      {
+        "name": "Orbit Mars",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/aed36ba6dcff84bf155a7596efb509f7d25f94bd.jpg"
+      },
+      {
+        "name": "Orbit Jupiter",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/a19309d514d749e681dea724972214ab03b2f65c.jpg"
+      },
+      {
+        "name": "Orbit Saturn",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/0255dc8a234ae51d360e99f1c64e4f20cb6d4698.jpg"
+      },
+      {
+        "name": "Orbit Uranus",
+        "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4798040/9ee451a3d4376ec2bdfdc45b5f6162107687badc.jpg"
+      }
+    ]
+  },
+  "requirements": {
+    "Windows": {
+      "minimum": [
+        {
+          "label": null,
+          "value": "Requires a 64-bit processor and operating system"
+        },
+        {
+          "label": "OS",
+          "value": "Windows 10/11 64-Bit"
+        },
+        {
+          "label": "Processor",
+          "value": "Intel i3-6100 / Ryzen 3 1200"
+        },
+        {
+          "label": "Memory",
+          "value": "4 GB RAM"
+        },
+        {
+          "label": "Graphics",
+          "value": "OpenGL 4.5 compatible, 1GB VRAM"
+        },
+        {
+          "label": "Storage",
+          "value": "250 MB available space"
+        },
+        {
+          "label": "Sound Card",
+          "value": "Not Required"
+        },
+        {
+          "label": "VR Support",
+          "value": "Not Supported"
+        }
+      ],
+      "recommended": [
+        {
+          "label": null,
+          "value": "Requires a 64-bit processor and operating system"
+        },
+        {
+          "label": "OS",
+          "value": "Windows 10/11 64-Bit"
+        },
+        {
+          "label": "Processor",
+          "value": "Intel i5-8400 / Ryzen 5 2600"
+        },
+        {
+          "label": "Memory",
+          "value": "8 GB RAM"
+        },
+        {
+          "label": "Graphics",
+          "value": "GTX 1060 / RX 580, 2GB VRAM"
+        },
+        {
+          "label": "Storage",
+          "value": "250 MB available space"
+        },
+        {
+          "label": "Sound Card",
+          "value": "Not Required"
+        },
+        {
+          "label": "VR Support",
+          "value": "Not Supported"
+        }
+      ]
+    },
+    "Linux": {
+      "minimum": [
+        {
+          "label": "OS",
+          "value": "Arch Linux / Ubuntu 20.04 / SteamOS 3.0"
+        },
+        {
+          "label": "Processor",
+          "value": "Intel i3-6100 / Ryzen 3 1200"
+        },
+        {
+          "label": "Memory",
+          "value": "4 GB RAM"
+        },
+        {
+          "label": "Graphics",
+          "value": "OpenGL 4.5 compatible, 1GB VRAM"
+        },
+        {
+          "label": "Storage",
+          "value": "250 MB available space"
+        },
+        {
+          "label": "Sound Card",
+          "value": "Not Required"
+        },
+        {
+          "label": "VR Support",
+          "value": "Not Supported"
+        }
+      ],
+      "recommended": [
+        {
+          "label": "OS",
+          "value": "Arch Linux / Ubuntu 20.04 / SteamOS 3.0"
+        },
+        {
+          "label": "Processor",
+          "value": "Intel i5-8400 / Ryzen 5 2600"
+        },
+        {
+          "label": "Memory",
+          "value": "8 GB RAM"
+        },
+        {
+          "label": "Graphics",
+          "value": "GTX 1060 / RX 580, 2GB VRAM"
+        },
+        {
+          "label": "Storage",
+          "value": "250 MB available space"
+        },
+        {
+          "label": "Sound Card",
+          "value": "Not Required"
+        },
+        {
+          "label": "VR Support",
+          "value": "Not Supported"
+        }
+      ]
+    }
+  },
+  "fetchedAt": "2026-10-22T22:30:00.230Z"
+}

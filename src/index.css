@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  /* Studio blue scale: pale steel → deep navy */
+  --color-bss-50: #f2f6fc;
+  --color-bss-100: #e1ebf8;
+  --color-bss-200: #c3d6f0;
+  --color-bss-300: #96b8e3;
+  --color-bss-400: #5c90d0;
+  --color-bss-500: #2f6bbd;
+  --color-bss-600: #1f54a0;
+  --color-bss-700: #194283;
+  --color-bss-800: #14346a;
+  --color-bss-900: #0e2650;
+  --color-bss-950: #071733;
+
+  /* Bright "blue screen" accent */
+  --color-accent: #0a5cff;
+  --color-accent-hover: #0047d6;
+  /* Lighter accent for small text and links on dark backgrounds */
+  --color-accent-soft: #4a8dff;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-bss-950 font-sans text-bss-100 antialiased;
+    color-scheme: dark;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-accent-soft;
+  }
+}

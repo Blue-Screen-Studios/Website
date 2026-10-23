@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1d4f9a" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b2a5b"/>
+      <stop offset="1" stop-color="#05162f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#g)" opacity="0.5"/>
+  <g fill="#0a5cff" opacity="0.35">
+    <rect x="960" y="160" width="240" height="160"/>
+    <rect x="1240" y="360" width="200" height="280"/>
+    <rect x="1000" y="520" width="160" height="120"/>
+  </g>
+  <g fill="none" stroke="#5c9bff" stroke-width="2" opacity="0.6">
+    <rect x="920" y="120" width="560" height="560"/>
+    <circle cx="1200" cy="400" r="180"/>
+  </g>
+  <text x="40" y="860" fill="#5c9bff" opacity="0.6" font-family="monospace" font-size="18">TEMP HERO IMAGE — replace public/hero-placeholder.svg</text>
+</svg>
