@@ -150,7 +150,7 @@ function Trailer({ src, poster, title }: { src: string; poster: string; title: s
     }
     let destroy: (() => void) | undefined;
     let cancelled = false;
-    import("hls.js").then(({ default: Hls }) => {
+    import("hls.js/light").then(({ default: Hls }) => {
       if (cancelled || !Hls.isSupported()) return;
       const hls = new Hls({ autoStartLoad: false });
       hls.loadSource(src);
